@@ -8,7 +8,7 @@ const About: NextPage = () => {
   return (
     <main>
       <Head>
-        <title>About</title>
+        <title>My About</title>
         <meta
           name="description"
           content="Maxcess Pharma Pvt. Ltd. is a limited liability partnership limited company based in Ahmedabad, India"
